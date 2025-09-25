@@ -13,7 +13,7 @@ Some random C# extension methods I've found useful. Published as Ardalis.Extensi
 - [Conventions for Contributors](#conventions-for-contributors)
 - [Benchmarks](#benchmarks)
 - [Roadmap](#roadmap)
-
+2
 ## Installation
 
 Just add a reference the the package and then anywhere you want to use the extensions, add the appropriate `using` statement.
