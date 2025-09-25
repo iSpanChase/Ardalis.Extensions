@@ -6,7 +6,7 @@
 Some random C# extension methods I've found useful. Published as Ardalis.Extensions on Nuget.
 
 ## Table of Contents
-
+1
 - [Installation](#installation)
 - [Usage](#usage)
    - [String checks](#string-checks)
